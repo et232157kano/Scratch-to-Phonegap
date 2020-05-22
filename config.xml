@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "catclicker.ebrschools.edu.mit.scratch"
+        id          = "ev3 quadrone.ebrschools.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Cat Clicker</name>
+    <name>EV3 Quadrone</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
